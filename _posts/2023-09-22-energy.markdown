@@ -2,7 +2,7 @@
 layout: post
 title:  "Skillful Prediction of UK Seasonal Energy Consumption based on Surface Climate Information"
 date:   2023-05-12 00:00:00 +00:00
-image: /images/energy.png
+image: /images/headshot.png
 categories: research
 author: "Samuel Li"
 authors: "<strong>Samuel Li</strong>, Ryan Sriver, Douglas E. Miller"
