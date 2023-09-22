@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Skillful Prediction of UK Seasonal Energy Consumption based on Surface Climate Information"
-date:   2023-03-22 22:21:59 +00:00
+date:   2023-09-22 22:21:59 +00:00
 image: /images/denergy.png
 categories: research
 author: "Leo Keselman"
