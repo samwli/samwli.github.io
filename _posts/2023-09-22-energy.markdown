@@ -4,10 +4,10 @@ title:  "Skillful Prediction of UK Seasonal Energy Consumption based on Surface 
 date:   2023-03-22 22:21:59 +00:00
 image: /images/energy.png
 categories: research
-author: "Leo Keselman"
+author: "Samuel Li"
 authors: "<strong>Samuel Li</strong>, Ryan Sriver, Douglas E. Miller"
-venue: "arxiv" #"Environmental Research Letters"
-#paper: https://iopscience.iop.org/article/10.1088/1748-9326/acd072
-#code: https://github.com/samwli/EnergyPrediction
+venue: "Environmental Research Letters"
+paper: https://iopscience.iop.org/article/10.1088/1748-9326/acd072
+code: https://github.com/samwli/EnergyPrediction
 ---
 We show how winter climate and energy demand values can be predicted two months in advance using surface climate information.
