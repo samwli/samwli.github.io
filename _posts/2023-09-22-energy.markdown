@@ -1,5 +1,18 @@
 ---
 layout: post
+title:  "YouTubePD: A Multimodal Benchmark for Parkinson’s Disease Analysis"
+date:   2023-11-08 00:00:00 +00:00
+image: /images/energy.png
+categories: research
+author: "Samuel Li"
+authors: "Andy Zhou*, <strong>Samuel Li*</strong>, Pranav Sriram*, Xiang Li*, Jiahua Dong*, Ansh Sharma, Yuanyi Zhong, Shirui Luo, Maria Jaromin, Volodymyr Kindratenko, Joerg Heintz, Christopher Zallek, Yuxiong Wang"
+venue: "Neural Information Processing Systems Datasets and Benchmarks Track. (NeurIPS 2023)"
+paper: /pdfs/YouTubePD
+website: https://uiuc-yuxiong-lab.github.io/YouTubePD/
+---
+We show how winter climate and energy demand values can be predicted two months in advance using surface climate information.
+---
+layout: post
 title:  "Skillful Prediction of UK Seasonal Energy Consumption based on Surface Climate Information"
 date:   2023-05-12 00:00:00 +00:00
 image: /images/energy.png
