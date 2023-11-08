@@ -10,4 +10,4 @@ venue: "Neural Information Processing Systems Datasets and Benchmarks Track. (Ne
 paper: /pdfs/YouTubePD
 website: https://uiuc-yuxiong-lab.github.io/YouTubePD/
 ---
-We introduce the first publicly available multimodal benchmark designed for Parkinson's disease analysis and demonstrate the generalizability of models we developed on our YouTubePD to real-world clinical settings.
+We introduce the first publicly available Parkinson's disease analysis benchmark and demonstrate the generalizability of models we developed to real-world clinical settings.
