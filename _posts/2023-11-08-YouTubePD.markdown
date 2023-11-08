@@ -6,7 +6,7 @@ image: /images/YouTubePD.png
 categories: research
 author: "Samuel Li"
 authors: "Andy Zhou*, <strong>Samuel Li*</strong>, Pranav Sriram*, Xiang Li*, Jiahua Dong*, Ansh Sharma, Yuanyi Zhong, Shirui Luo, Maria Jaromin, Volodymyr Kindratenko, Joerg Heintz, Christopher Zallek, Yuxiong Wang"
-venue: "NeurIPS Datasets and Benchmarks Track, 2023"
+venue: "NeurIPS Datasets and Benchmarks Track"
 paper: /pdfs/YouTubePD
 website: https://uiuc-yuxiong-lab.github.io/YouTubePD/
 ---
