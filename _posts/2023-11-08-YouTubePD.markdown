@@ -10,4 +10,4 @@ venue: "NeurIPS Datasets and Benchmarks Track"
 paper: /pdfs/YouTubePD
 website: https://uiuc-yuxiong-lab.github.io/YouTubePD/
 ---
-We introduce the first publicly available Parkinson's disease analysis benchmark and demonstrate the generalizability of models we developed to real-world clinical settings.
+We introduce the first publicly available Parkinson's disease analysis benchmark and demonstrate the generalizability of our developed models to real-world clinical settings.
