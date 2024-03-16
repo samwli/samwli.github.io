@@ -7,7 +7,7 @@ categories: research
 author: "Samuel Li"
 authors: "Sarthak Bhagat, <strong>Samuel Li</strong>, Joseph Campbell, Yaqi Xie, Katia Sycara, Simon Stepputtis"
 venue: "RA-L (In Review)"
-# paper: /pdfs/act_ant.pdf
+paper: /pdfs/act_ant.pdf
 website: https://sarthak268.github.io/NeSCA/
 ---
 We introduce the first publicly available Parkinson's disease analysis benchmark and demonstrate the generalizability of our developed models to real-world clinical settings.

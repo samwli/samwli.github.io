@@ -10,4 +10,4 @@ venue: "IROS (In Review)"
 paper: /pdfs/ShapeGrasp.pdf
 website: https://shapegrasp.github.io/
 ---
-We introduce the first publicly available Parkinson's disease analysis benchmark and demonstrate the generalizability of our developed models to real-world clinical settings.
+We develop an efficient novel zero-shot, task-oriented object grasping pipeline using only static, noisy monocular RGBD input and LLMs for fine-grained, shape-based part affordance reasoning.
