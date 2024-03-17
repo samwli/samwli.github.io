@@ -10,4 +10,4 @@ venue: "RA-L (In Review)"
 paper: /pdfs/act_ant.pdf
 website: https://sarthak268.github.io/NeSCA/
 ---
-We introduce the first publicly available Parkinson's disease analysis benchmark and demonstrate the generalizability of our developed models to real-world clinical settings.
+We develop a novel approach for short-context action anticipation by using neuro-symbolic knowledge to modify the transformer architecture, halving the observation time needed and achieving state-of-the-art performance, enabling effective real-world human-robot collaboration.
