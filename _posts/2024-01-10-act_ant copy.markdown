@@ -10,4 +10,4 @@ venue: "RA-L (In Review)"
 paper: /pdfs/act_ant.pdf
 website: https://sarthak268.github.io/NeSCA/
 ---
-We develop a novel approach for short-context action anticipation by using neuro-symbolic knowledge to modify the transformer architecture, halving the observation time needed and achieving state-of-the-art performance, enabling effective real-world human-robot collaboration.
+We develop a novel modification to the transformer architecture for action anticipation, halving the observation time needed and achieving state-of-the-art performance to enable effective real-world human-robot collaboration.
