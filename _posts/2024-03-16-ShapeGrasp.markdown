@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Geometric Shape Reasoning for Zero-Shot Task-Oriented Grasping"
-date:   2024-04-25 00:00:00 +00:00
+date:   2024-03-15 00:00:00 +00:00
 image: /images/geometric_grasp.png
 categories: research
 author: "Samuel Li"
