@@ -9,4 +9,4 @@ authors: "<strong>Samuel Li</strong>, Sarthak Bhagat, Joseph Campbell, Yaqi Xie,
 venue: "ICRA 3D Visual Representations for Robot Manipulation Workshop"
 paper: /pdfs/graspICRA.pdf
 ---
-We propose a lightweight zero-shot, task-oriented grasping approach utilizing LLMs for fine-grained semantic reasoning over geometric decompositions. 
+We propose a lightweight zero-shot, task-oriented grasping approach utilizing LLMs for part-level semantic reasoning over geometric decompositions. 
