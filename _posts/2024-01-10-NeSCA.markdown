@@ -10,4 +10,4 @@ venue: "RA-L (In Review)"
 paper: /pdfs/NeSCA.pdf
 website: https://sarthak268.github.io/NeSCA/
 ---
-We develop a novel modification to the transformer architecture for short-context action anticipation, achieving state-of-the-art performance and enabling real-world human-robot collaboration.
+We develop a novel modification to the transformer architecture for short-context action anticipation, enabling human-robot collaboration in real-world experiments.
