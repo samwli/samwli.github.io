@@ -7,6 +7,6 @@ categories: CMU
 course: "16-831 Intro to Robot Learning"
 author: "Samuel Li"
 authors: "<strong>Samuel Li*</strong>, Yunchao Yao*"
-paper: /pdfs/aff.pdf
+paper: /pdfs/efficient_exploration.pdf
 ---
 We leverage affordance understanding in foundation models for efficient, safe, and aligned task-conditioned exploration and learning for robotic manipulation.
