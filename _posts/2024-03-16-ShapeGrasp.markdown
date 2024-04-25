@@ -7,7 +7,7 @@ categories: research
 author: "Samuel Li"
 authors: "<strong>Samuel Li</strong>, Sarthak Bhagat, Joseph Campbell, Yaqi Xie, Woojun Kim, Katia Sycara, Simon Stepputtis"
 venue: "IROS (In Review)"
-paper: /pdfs/ShapeGrasp.pdf
+paper: https://arxiv.org/abs/2403.18062
 website: https://shapegrasp.github.io/
 ---
 We develop a novel and efficient zero-shot, task-oriented grasping pipeline constructing a symbolic graph from monocular RGB+D input for fine-grained, shape-based LLM reasoning.
