@@ -6,7 +6,7 @@ image: /images/ShapeGrasp.png
 categories: research
 author: "Samuel Li"
 authors: "<strong>Samuel Li</strong>, Sarthak Bhagat, Joseph Campbell, Yaqi Xie, Woojun Kim, Katia Sycara, Simon Stepputtis"
-venue: "IROS (In Review)"
+venue: "IROS (Oral)"
 paper: https://arxiv.org/abs/2403.18062
 website: https://shapegrasp.github.io/
 ---

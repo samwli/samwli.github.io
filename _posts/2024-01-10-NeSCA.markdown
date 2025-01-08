@@ -6,7 +6,7 @@ image: /images/act_ant.png
 categories: research
 author: "Samuel Li"
 authors: "Sarthak Bhagat, <strong>Samuel Li</strong>, Joseph Campbell, Yaqi Xie, Katia Sycara, Simon Stepputtis"
-venue: "RA-L (In Review)"
+venue: "RA-L"
 paper: /pdfs/NeSCA.pdf
 website: https://sarthak268.github.io/NeSCA/
 ---
